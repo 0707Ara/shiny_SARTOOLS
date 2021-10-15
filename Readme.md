@@ -25,6 +25,8 @@ Basic port number : listen 3838;
 Basic site directory : site_dir /srv/shiny-server;  
 Basic site directory : log_dir /var/log/shiny-server;  
 
+## Manual
+Shiny server.docs
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
